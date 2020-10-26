@@ -76,17 +76,7 @@
         </dependency>
         <dependency>
             <groupId>org.wildfly.openssl</groupId>
-            <artifactId>wildfly-openssl-linux-x86_64</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.wildfly.openssl</groupId>
             <artifactId>wildfly-openssl-linux-s390x</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.wildfly.openssl</groupId>
-            <artifactId>wildfly-openssl-macosx-x86_64</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -141,6 +131,11 @@
         <dependency>
             <groupId>org.wildfly.security</groupId>
             <artifactId>wildfly-elytron-ssl</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.wildfly.openssl</groupId>
+            <artifactId>wildfly-openssl-linux-rhel9-x86_64</artifactId>
+            <scope>test</scope>
         </dependency>
 
         <dependency>
