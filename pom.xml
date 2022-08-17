@@ -212,7 +212,7 @@
         <version.org.codehaus.plexus.plexus-utils>3.1.1</version.org.codehaus.plexus.plexus-utils>
         <version.org.eclipse.jgit>6.2.0.202206071550-r-redhat-00001</version.org.eclipse.jgit>
         <version.org.fusesource.jansi>1.18.0.redhat-00001</version.org.fusesource.jansi>
-        <version.org.glassfish.jakarta.json>1.1.6</version.org.glassfish.jakarta.json>
+        <version.org.glassfish.jakarta.json>1.1.6.redhat-00001</version.org.glassfish.jakarta.json>
         <version.org.jboss.byteman>4.0.19</version.org.jboss.byteman>
         <version.org.jboss.classfilewriter>1.2.5.Final</version.org.jboss.classfilewriter>
         <version.org.jboss.invocation>1.7.0.Final</version.org.jboss.invocation>
