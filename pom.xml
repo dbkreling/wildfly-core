@@ -250,7 +250,7 @@
         <version.org.wildfly.common>1.6.0.Final-redhat-00001</version.org.wildfly.common>
         <version.org.wildfly.discovery>1.2.1.Final-redhat-00001</version.org.wildfly.discovery>
         <version.org.wildfly.legacy.test>7.0.0.Final</version.org.wildfly.legacy.test>
-        <version.org.wildfly.openssl>2.2.4.Final</version.org.wildfly.openssl>
+        <version.org.wildfly.openssl>2.2.4.Final-redhat-00001</version.org.wildfly.openssl>
         <version.org.wildfly.openssl.natives>2.2.2.Final-redhat-00002</version.org.wildfly.openssl.natives>
         <version.org.wildfly.openssl.wildfly-openssl-linux-ppc64le>${version.org.wildfly.openssl.natives}</version.org.wildfly.openssl.wildfly-openssl-linux-ppc64le>
         <version.org.wildfly.openssl.wildfly-openssl-linux-rhel6-x86_64>${version.org.wildfly.openssl.natives}</version.org.wildfly.openssl.wildfly-openssl-linux-rhel6-x86_64>
